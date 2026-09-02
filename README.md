@@ -54,7 +54,7 @@ The analysis provides insight into :
 
 ## Portofolio documentation
 A detailed project documentation is available in:
-portofolio/supermarket product sales data analyst.pdf
+supermarket_product_sales/supermarket product sales data analyst.pdf
 
 ## skill demonstrated
 1. Data cleaning
